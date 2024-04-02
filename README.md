@@ -1,4 +1,5 @@
-# Hotel Data Analysis using Python
+# Investigate Hotel Business using Data Visualization
+Hotel Data Analysis using Python
 
 ## Background
 
